@@ -15,9 +15,8 @@ This Power BI dashboard analyzes sales performance, revenue trends, customer beh
 
 ## Tools Used
 - Power BI
-- SQL
 - Excel
-- Power Query
+
 
 ---
 
@@ -37,4 +36,4 @@ This Power BI dashboard analyzes sales performance, revenue trends, customer beh
 ## Files Included
 - Power BI Dashboard (.pbix)
 - Dashboard PDF
-- Dashboard Screenshot
+
