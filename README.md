@@ -4,6 +4,8 @@
 
 ![Dashboard Preview](dashboard-preview.png)
 
+https://drive.google.com/file/d/1cBRKuIfYMFhgoFCntTiAE34SGd_hGsVI/view?usp=sharing
+
 ---
 
 ## Project Overview
