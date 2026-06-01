@@ -15,6 +15,8 @@ https://ebofualevictoranalyticsdemo.netlify.app/
 **Amplitude Live Events Dashboard:**
 https://app.amplitude.com/analytics/victoranalyticsdemo/live-events
 
+Loom Recording Link : https://www.loom.com/share/b5b1f83a74e54bf4b37024fa1cd8bc7f
+
 ## Tools Used
 - Power BI
 - Excel
@@ -29,6 +31,8 @@ https://ebofualevictoranalyticsdemo.netlify.app/
 
 **Amplitude Live Events Dashboard:**
 https://app.amplitude.com/analytics/victoranalyticsdemo/live-events
+
+Loom Recording Link : https://www.loom.com/share/b5b1f83a74e54bf4b37024fa1cd8bc7f
 
 This project demonstrates my understanding of product analytics, event tracking, live data collection, user behavior monitoring, and how analytics tools support data-driven business decisions.
 
